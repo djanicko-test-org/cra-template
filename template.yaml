@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: create-react-app-template
   annotations:
-    backstage.io/template-version: 0.0.3
+    backstage.io/template-version: 0.0.4
   namespace: default
   title: Create React App Template
   description: Create a new CRA website project
